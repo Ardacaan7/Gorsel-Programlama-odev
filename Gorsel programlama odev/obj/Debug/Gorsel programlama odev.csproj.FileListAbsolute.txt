@@ -1,0 +1,10 @@
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\bin\Debug\Gorsel programlama odev.exe.config
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\bin\Debug\Gorsel programlama odev.exe
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\bin\Debug\Gorsel programlama odev.pdb
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel programlama odev.csproj.AssemblyReference.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel_programlama_odev.Form1.resources
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel_programlama_odev.Properties.Resources.resources
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel programlama odev.csproj.GenerateResource.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel programlama odev.csproj.CoreCompileInputs.cache
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel programlama odev.exe
+C:\Users\ozanp\OneDrive\Masaüstü\Yeni klasör\Gorsel programlama odev\obj\Debug\Gorsel programlama odev.pdb
